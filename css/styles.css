@@ -1,0 +1,49 @@
+.alto{
+  height: 200px;
+}
+.domiboy{
+	color: #43a047;
+}
+.icono{
+	color: #43a047;
+}
+.container{
+	padding-top: 100px;
+}
+.marginbutton{
+margin: 10px;
+}
+
+ /* label color */
+   .input-field label {
+     color: #01579b;
+   }
+   /* label focus color */
+   .input-field input[type=text]:focus + label {
+     color: #01579b;
+   }
+   /* label underline focus color */
+   .input-field input[type=text]:focus {
+     border-bottom: 1px solid #01579b;
+     box-shadow: 0 1px 0 0 #01579b;
+   }
+   /* valid color */
+   /* icon prefix focus color */
+   .input-field .prefix.active {
+     color: #01579b;
+   }
+
+h3{
+  color:#01579b;
+}
+.titulo{
+  color:#01579b;
+}
+
+.notificacion{
+  border-radius: 50px;
+  background: red;
+  height: 30px;
+}
+
+
